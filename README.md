@@ -1,4 +1,4 @@
-# San-Carlos-Collge-SIMS
+# San-Carlos-College-SIMS
 A simple CRUD App using Flask and MySQL.
 
 **Requirements**
